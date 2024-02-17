@@ -1,0 +1,9 @@
+- name: Fanblast
+  url: https://fanblast.com
+  description: 
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: React Router
+    - thing: Axios
+    - thing: Next.js

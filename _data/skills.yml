@@ -1,0 +1,36 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: TypeScript
+  - item: HTML
+  - item: CSS/Sass
+
+frameworks:
+  - item: React & Redux
+  - item: Next
+  - item: Vue
+  - item: Angular
+  - item: Angular.js
+  - item: D3
+
+DevOps:
+  - item: AWS S3
+  - item: CloudFront
+  - item: Route53
+  - item: Lambda
+  - item: EC2
+  - item: AWS Certificate Manager
+  - item: Nginx & Apache2
+  - item: Vercel
+  - item: DigitalOcean Storage & CDN
+
+tools:
+  - item: Git & Github
+  - item: Gulp & Grunt
+  - item: Webpack
+  - item: Chrome DevTools
+  - item: Postman
+  - item: Swagger
+  - item: Git, Jira, Trello, Confluence,
+  - item: Sketch
+  - item: Figma
+  - item: Zeplin

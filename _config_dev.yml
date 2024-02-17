@@ -1,0 +1,43 @@
+# Site settings
+name: Jeet Rabadiya
+title: Jeet Rabadiya | Senior Front End Engineer
+description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+url: https://jeetrabadiya.github.io/
+baseurl: ''
+email: jeetrabadiya@gmail.com
+cover:
+logo: https://jeetrabadiya.github.io/img/emojis/technologist.png
+resume: 
+social:
+  - title: email
+    url: mailto:jeetrabadiya@gmail.com
+  - title: instagram
+    url: https://instagram.com/jeet.codes
+  - title: codepen
+    url: http://codepen.io/jeet_rabadiya
+  - title: github
+    url: https://github.com/jeetrabadiya
+  - title: linkedin
+    url: https://www.linkedin.com/in/jeet-rabadiya/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
